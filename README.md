@@ -42,7 +42,7 @@ A fullstack scheduling platform with real-time notifications for users and servi
 - **Stack:** TypeScript · NestJS · React · PostgreSQL · Redis
 - **Type:** Fullstack
 - [API Repository](https://github.com/Diderot-sielinou/bookMeApp-api) · [Frontend Repository](https://github.com/Diderot-sielinou/bookmeFrontEnd)
-- **Live Demo:** [[abreviar-plateform.vercel.app](https://bookme-front-end-9a8n.vercel.app)]([https://abreviar-plateform.vercel.app](https://bookme-front-end-9a8n.vercel.app))
+- - **Live Demo:** [[abreviar-plateform.vercel.app](https://bookme-front-end-9a8n.vercel.app)](https://bookme-front-end-9a8n.vercel.app)
 ---
 
 # 📊 GitHub Stats:
