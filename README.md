@@ -31,6 +31,8 @@ An open-source URL shortener with custom slug generation and link analytics.
 - **Stack:** TypeScript · Node.js · PostgreSQL · Prisma
 - **Type:** Backend + API
 - [View Repository](https://github.com/Diderot-sielinou/abreviar-plateform)
+- **Live Demo:** [abreviar-plateform.vercel.app](https://abreviar-plateform.vercel.app)
+
 
 ---
 
@@ -40,6 +42,7 @@ A fullstack scheduling platform with real-time notifications for users and servi
 - **Stack:** TypeScript · NestJS · React · PostgreSQL · Redis
 - **Type:** Fullstack
 - [API Repository](https://github.com/Diderot-sielinou/bookMeApp-api) · [Frontend Repository](https://github.com/Diderot-sielinou/bookmeFrontEnd)
+- [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://bookme-front-end-9a8n.vercel.app)
 
 ---
 
